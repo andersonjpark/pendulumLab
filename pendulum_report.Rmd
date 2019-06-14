@@ -235,11 +235,3 @@ pander(PeriodTable)
 
 I was able to obtain period of oscillation both experimentally and theoretically by this lab, resulting small error percentage. As I shown in the data table, the gamma value was close to 1 when the $\theta$ value was relatively small. However as the amplitude increased, the $\gamma$ value started to increase and became bigger than 1. This means that the equation of a pendulum with small osciallation is a good approximation for small amplitudes, where small amplitudes are less than 0.2 radians
 
-##(Unrelated to the lab report) Additional links of my programming work:
-
-[Github Link](https://github.com/jspark971)
-
-[Repository of codes of a website I worked for my club](https://github.com/nooseman/dvtutors)
-
-[Link of the face-chat website I built for my club](https://dvtutors.herokuapp.com)
-
