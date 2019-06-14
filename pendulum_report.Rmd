@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Abstract:
 ***
 
-In this labortory, I investigated the effect of non-small amplitude for a simple pendulum. I made a model on Excel to model the motion, and used to find the approximated period of oscillation for different amplitudes. These values were compared to an actual period of oscillation which was measured by a photogate with a real pendulum.
+In this labortory, I investigated the effect of non-small amplitude for a simple pendulum. I made a model on RStudio to model the motion, and used to find the approximated period of oscillation for different amplitudes. These values were compared to an actual period of oscillation which was measured by a photogate with a real pendulum.
 
 ##Theory:
 ***
